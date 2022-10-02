@@ -24,7 +24,7 @@ And I have not changed anything in its code.
 
 ---
 
-### Checkout the live website [here]()
+### Checkout the live website [here](https://locofy-clarityui.netlify.app/)
 
 ---
 
