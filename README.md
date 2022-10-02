@@ -7,6 +7,9 @@
 ---
 
 Using Figma design to create Locofy code in Reactjs and TailwindCSS with TypeScript
+
+<br/>
+
 And I have not changed anything in its code.
 
 <br/>
