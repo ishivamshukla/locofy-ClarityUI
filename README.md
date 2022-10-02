@@ -36,7 +36,6 @@ And I have not changed anything in its code.
 
 ## Start with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
